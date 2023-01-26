@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background: url(../stil/img/nyc.jpg);
+}
+
+
+
+.card {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.card-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.card-title {
+    font-size: 20px;
+    text-align: justify;
+}
+.card-text {
+    font-size: 14px;
+    color: rgb(14, 9, 92);
+}
+h2 {
+    color: black;
+}
+
+.card-list {
+    color: black;
+    padding-left: 0;
+    list-style-position: inside;
+}
